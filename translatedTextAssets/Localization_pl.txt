@@ -1,6 +1,6 @@
 KEY,"English"
-APP_TITLE,"Legends of the Alliance"
-YOU_LOST,"You lost..."
+APP_TITLE,"Legendy Sojuszu"
+YOU_LOST,"Przegrana..."
 
 UI_PRIVACYPOLICY,"Disney Privacy Policy"
 UI_TODO,"TODO"
