@@ -1,4 +1,4 @@
-KEY,"English"
+KEY,"Polish"
 APP_TITLE,"Legendy Sojuszu"
 YOU_LOST,"Przegrana..."
 
