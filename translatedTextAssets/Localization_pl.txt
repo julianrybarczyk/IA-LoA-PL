@@ -2,7 +2,7 @@ KEY,"Polish"
 APP_TITLE,"Legendy Sojuszu"
 YOU_LOST,"Przegrana..."
 
-UI_PRIVACYPOLICY,"Disney Privacy Policy"
+UI_PRIVACYPOLICY,"Polityka Prywatności Disneya"
 UI_TODO,"TODO"
 UI_NONE,"None"
 UI_DEBUG,"Debug"
